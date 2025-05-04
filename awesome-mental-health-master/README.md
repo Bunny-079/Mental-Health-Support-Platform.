@@ -231,14 +231,3 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [VR Mental Health Startup: Idea To Reality - AnxietyTech 2018](https://www.youtube.com/watch?v=6fmT_MBcoTY) - By Jonathan Sockell.
 * [Why We Need Innovation In Mental Health Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=whYGza42F5U) - By Solome Tibebu.
 
-## Contributing
-
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CODE_OF_CONDUCT.md)
-
-Please see [CONTRIBUTING](https://github.com/dreamingechoes/awesome-mental-health/blob/master/.github/CONTRIBUTING.md) for more details on how to suggest awesome resources or other modifications to the list. You can also find an alphabetically-ordered list of contributors of this repository [here](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CONTRIBUTORS.md).
-
-All contributors are expected to adhere to the [Code of Conduct](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CODE_OF_CONDUCT.md) of the project. (Contributor Covenant)
-
----
-
-This project was started by [dreamingechoes](https://github.com/dreamingechoes).
